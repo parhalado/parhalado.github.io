@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  /* atas bawah 6 rem */
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #e2edff;
+}
+html {
+  scroll-padding-top: 6rem;
+}
+.gallery-img {
+  width: 100%;
+}
+#gallery.row > * {
+  padding: 0;
+}
